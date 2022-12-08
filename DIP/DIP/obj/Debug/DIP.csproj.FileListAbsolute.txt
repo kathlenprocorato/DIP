@@ -1,0 +1,9 @@
+C:\Users\DELL\SCHOOL\searchapplication\DIP\DIP\bin\Debug\DIP.exe
+C:\Users\DELL\SCHOOL\searchapplication\DIP\DIP\bin\Debug\DIP.pdb
+C:\Users\DELL\SCHOOL\searchapplication\DIP\DIP\obj\Debug\DIP.csproj.AssemblyReference.cache
+C:\Users\DELL\SCHOOL\searchapplication\DIP\DIP\obj\Debug\DIP.Properties.Resources.resources
+C:\Users\DELL\SCHOOL\searchapplication\DIP\DIP\obj\Debug\DIP.csproj.GenerateResource.cache
+C:\Users\DELL\SCHOOL\searchapplication\DIP\DIP\obj\Debug\DIP.csproj.CoreCompileInputs.cache
+C:\Users\DELL\SCHOOL\searchapplication\DIP\DIP\obj\Debug\DIP.exe
+C:\Users\DELL\SCHOOL\searchapplication\DIP\DIP\obj\Debug\DIP.pdb
+C:\Users\DELL\SCHOOL\searchapplication\DIP\DIP\obj\Debug\DIP.Form1.resources
