@@ -1,5 +1,7 @@
 # DIP
 
+#Part 1
+
 1. Basic Copy
 ![BasicCopy](https://github.com/kathlenprocorato/DIP/blob/main/Images/basic%20copy.png)
 
@@ -15,5 +17,7 @@
 5. Sepia
 ![Sepia](https://github.com/kathlenprocorato/DIP/blob/main/Images/sepia.png)
 
-Subtract
+#Part 2
+
+Subtract Sample Picture Output
 ![Subtract](https://github.com/kathlenprocorato/DIP/blob/main/Images/subtract.png)
