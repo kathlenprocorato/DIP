@@ -21,3 +21,6 @@
 
 Subtract Sample Picture Output
 ![Subtract](https://github.com/kathlenprocorato/DIP/blob/main/Images/subtract.png)
+
+### By:
+**Kathlen Claire Procorato**
