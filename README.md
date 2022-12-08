@@ -1,7 +1,7 @@
 # DIP
 
 1. Basic Copy
-![BasicCopy](basic copy.png)
+![BasicCopy](https://github.com/kathlenprocorato/DIP/blob/main/Images/basic%20copy.png)]
 
 2. Greyscale
 ![Greyscale](greyscale.png)
