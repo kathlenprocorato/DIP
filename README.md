@@ -1,19 +1,19 @@
 # DIP
 
 1. Basic Copy
-![BasicCopy](https://github.com/kathlenprocorato/DIP/blob/main/Images/basic%20copy.png)]
+![BasicCopy](https://github.com/kathlenprocorato/DIP/blob/main/Images/basic%20copy.png)
 
 2. Greyscale
-![Greyscale](greyscale.png)
+![Greyscale](https://github.com/kathlenprocorato/DIP/blob/main/Images/greyscale.png)
 
 3. Inversion
-![Inversion](inversion.png)
+![Inversion](https://github.com/kathlenprocorato/DIP/blob/main/Images/color%20inversion.png)
 
 4. Histogram
-![Histogram](histogram.png)
+![Histogram](https://github.com/kathlenprocorato/DIP/blob/main/Images/histogram.png)
 
 5. Sepia
-![Sepia](sepia.png)
+![Sepia](https://github.com/kathlenprocorato/DIP/blob/main/Images/sepia.png)
 
 Subtract
-![Subtract](subtract.png)
+![Subtract](https://github.com/kathlenprocorato/DIP/blob/main/Images/subtract.png)
